@@ -24,7 +24,7 @@ SUSTAINABILITY
 FROM SEEDS TO SHUCK
 
 [/fusion_title][fusion_separator style_type="default" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" sep_color="#0e608c" top_margin="10px" bottom_margin="10px" border_size="" icon="" icon_circle="" icon_circle_color="" width="205px" alignment="center" /][fusion_text columns="" column_min_width="" column_spacing="" rule_style="default" rule_size="" rule_color="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id=""]
-<h3 class="p1" style="text-align: center;">Seed oysters (a few mm in size) are bought from a local shellfish nursery and housed in floating bags and secured to a longline system in the bay, similar to the one shown below.</h3>
+<h3 class="p1" style="text-align: center;">Seed oysters (a few mm in size) are bought from a local shellfish nursery and housed in floating bags and secured to a longline system in the bay, similar to the one shown below (pictures coming soon).</h3>
 <h3 class="p1" style="text-align: center;">Here the oysters will be feeding on phytoplankton (aka algae) in the water. Occasionally, the oyster bags will be flipped to reduce algal growth to the bags. By flipping the bags, we are exposing any algae that has clung to the bag to air and the sun, which will dry out the algae and reduce growth on the bag. Flipping the bag also tumbles the oysters creating ideal shell structure for consumption.</h3>
 <h3 class="p1" style="text-align: center;">Once oysters reach market size, they will be harvested from the bags, cleaned and packed for sale.</h3>
 <h3 class="p1" style="text-align: center;">Oysters will be sold locally at farmers markets, to local restaurants, vineyards and breweries.</h3>
