@@ -13,8 +13,8 @@ post_date: 2019-01-30 18:19:28
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<h3>Where is the proposed site?</h3>
-<p>         The proposed site is located along the western coast of the Sakonnet River, approximately 500 feet north of Glen Manor house in roughly 5-15 feet of water.</p>
+<h3>Where is the site?</h3>
+<p>         The site is located along the western coast of the Sakonnet River, approximately 500 feet north of Glen Manor house in roughly 5-15 feet of water.</p>
 <p>&nbsp;</p>
 <h3>Why was this site chosen?</h3>
 <p>This area of the Sakonnet River was chosen for a few reasons.</p>
@@ -27,7 +27,7 @@ post_date: 2019-01-30 18:19:28
 </li>
 </ul>
 <p>&nbsp;</p>
-<h3>How will the proposed project effect water quality?</h3>
+<h3>How will the project effect water quality?</h3>
 <p>Oyster aquaculture has well known and well documented benefits to water quality and the marine ecosystem as a whole.  Oysters filter naturally occurring algae from the water and require no additives in order to thrive.  An adult oyster can filter up to 50 gallons of water a day, which considerably increases the surrounding water quality.  More information about this is presented <a href="https://ecsga.org/sustainability/" target="_blank" rel="noopener noreferrer">here.</a> </p>
 <p>&nbsp;</p>
 <h3>When/how will you tend to the proposed farm?</h3>
