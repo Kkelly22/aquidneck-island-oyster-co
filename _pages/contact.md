@@ -17,11 +17,4 @@ post_date: 2017-11-15 09:05:59
 <p style="text-align: center;">CONTACT US</p>
 [/fusion_title][fusion_separator style_type="default" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" sep_color="#124155" top_margin="0px" bottom_margin="20px" border_size="1" icon="" icon_circle="" icon_circle_color="" width="105px" alignment="center" /][fusion_text columns="" column_min_width="" column_spacing="" rule_style="default" rule_size="" rule_color="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id=""]
 <h3 style="text-align: center;">Contact us with any questions you have about the farm.</h3>
-[/fusion_text][fusion_code]W2NvbnRhY3QtZm9ybS03IGlkPSI1IiB0aXRsZT0iQ29udGFjdCBmb3JtIDEiXQ==[/fusion_code][fusion_title hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" content_align="center" size="3" font_size="" line_height="" letter_spacing="" margin_top="10px" margin_bottom="10px" margin_top_mobile="" margin_bottom_mobile="" text_color="#124155" style_type="none" sep_color=""]
-
-OUR EMAIL
-
-[/fusion_title][fusion_separator style_type="default" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" sep_color="#124155" top_margin="7px" bottom_margin="50px" border_size="1" icon="" icon_circle="" icon_circle_color="" width="105px" alignment="center" /][fusion_text columns="" column_min_width="" column_spacing="" rule_style="default" rule_size="" rule_color="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id=""]
-<h3 style="text-align: center;">Email: <a href="mailto:aquidneckislandoysters@gmail.com"><span class="s1">aquidneckislandoysters@gmail.com</span></a></h3>
-<h3 style="text-align: center;">Web: <a href="https://aquidneckislandoysterco.com/">https://aquidneckislandoysterco.com/</a></h3>
-[/fusion_text][fusion_separator style_type="default" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" sep_color="#124155" top_margin="0px" bottom_margin="20px" border_size="1" icon="" icon_circle="" icon_circle_color="" width="105px" alignment="center" /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_global id="237"]
+[/fusion_text][fusion_code]W2NvbnRhY3QtZm9ybS03IGlkPSI1IiB0aXRsZT0iQ29udGFjdCBmb3JtIDEiXQ==[/fusion_code][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]
