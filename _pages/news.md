@@ -1,6 +1,6 @@
 ---
 ID: 2614
-post_title: NEWS
+post_title: News
 author: aquidneckislandoysters@gmail.com
 post_excerpt: ""
 layout: page
